@@ -46,3 +46,17 @@
 <p><a href="https://www.udemy.com/certificate/UC-3fa29ea7-c5e8-4bb7-b41e-c32f9b0f9965/" target="blank">Angular: de cero a experto (legacy)</a></p>
 
 <p><a href="https://www.udemy.com/certificate/UC-3fb9b487-456b-4e4b-8c54-cc1f05c571ab/" target="blank">CI/CD en Gitlab vía FTP: Despliegue automático de tu código</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-ea1e1225-00bd-422a-95a2-c44c1985cd86/" target="blank">Flutter: Una introducción al SDK de Google</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-f854e465-9909-4321-acfd-acf51d9423d8/" target="blank">Git y GitHub Completo Desde Cero</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-3A7ECBS9/" target="blank">Fundamentos de Javascript</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-L60X64S7/" target="blank">Desarrollo web con JavaScript, Angular, NodeJS y MongoDB</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-789e9e5b-402d-4cb7-9688-b000422b64ff/" target="blank">Primeros Pasos con Swift</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-3VFIJZR4/" target="blank">Crear una aplicación web de Chat con NodeJS y SocketIO</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-9c5fd456-b6b2-4572-a718-b2970e1c4f22/" target="blank">Python - Básico</a></p>
