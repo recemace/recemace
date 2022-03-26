@@ -43,4 +43,6 @@
 
 <h3 align="left">Certificates</h3>
 
-<p><a href="https://www.udemy.com/certificate/UC-3fa29ea7-c5e8-4bb7-b41e-c32f9b0f9965/" target="blank">Angular: de cero a experto (legacy)</p>
+<p><a href="https://www.udemy.com/certificate/UC-3fa29ea7-c5e8-4bb7-b41e-c32f9b0f9965/" target="blank">Angular: de cero a experto (legacy)</a></p>
+
+<p><a href="https://www.udemy.com/certificate/UC-3fb9b487-456b-4e4b-8c54-cc1f05c571ab/" target="blank">CI/CD en Gitlab vía FTP: Despliegue automático de tu código</a></p>
