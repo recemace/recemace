@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/recemace" target="blank"><img src="https://img.shields.io/twitter/follow/recemace?logo=twitter&style=for-the-badge" alt="recemace" /></a> </p>
 
-- 🔭 I’m currently working on [Municipalidad de Pachacámac](https://www.gob.pe/munipachacamac)
-
 - 🌱 I’m currently learning **Nodejs and flutter projects**
 
 - 👯 I’m looking to collaborate on **web and mobile projects**
